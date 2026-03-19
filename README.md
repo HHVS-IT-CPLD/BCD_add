@@ -116,6 +116,10 @@ BCD 單位位元只能表示 0~9（`0000`~`1001`）。
 - 輸出：`Cout = 1`，`Sum = 0011`（3）
 - 對應十進位結果為 13（十位 1、個位 3）
 
+### 模擬
+<img width="1100" height="662" alt="image" src="https://github.com/user-attachments/assets/336e7775-d7e4-4902-a062-4be885edde87" />
+
+
 ## 7. 設計特性
 
 - 純組合邏輯，延遲主要來自比較器與加法器。
